@@ -1,1 +1,1 @@
-write : test first, test second
+w : test first, test first
