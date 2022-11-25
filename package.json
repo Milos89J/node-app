@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "these are sample functions in node.js to learn all the basics. Those who want to learn Node better have a look",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milos89J/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milos89J/node-app/issues"
+  },
+  "homepage": "https://github.com/Milos89J/node-app#readme"
+}
