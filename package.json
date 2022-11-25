@@ -4,7 +4,7 @@
   "description": "these are sample functions in node.js to learn all the basics. Those who want to learn Node better have a look",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Milos89J/node-app/issues"
   },
-  "homepage": "https://github.com/Milos89J/node-app#readme"
+  "homepage": "https://github.com/Milos89J/node-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
